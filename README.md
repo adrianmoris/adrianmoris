@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrianmoris
-- 👀 I’m interested in learn new programming languages 
+- 👀 I'm currently learning to use AI (Claude, Opencode, ...)
 - 🌱 I’m currently learning python, html5, javascript, nodejs, css
 - 💞️ I’m looking to collaborate on copilot
 - 📫 How to reach me adrianmoris@gmail.com
